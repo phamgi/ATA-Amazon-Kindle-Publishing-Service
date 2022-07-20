@@ -1,0 +1,97 @@
+com/amazon/ata/kindlepublishingservice/activity/GetBookActivity.java
+ com.amazon.ata.kindlepublishingservice.activity.GetBookActivity
+com/amazon/ata/kindlepublishingservice/models/response/SubmitBookForPublishingResponse.java
+ com.amazon.ata.kindlepublishingservice.models.response.SubmitBookForPublishingResponse
+ com.amazon.ata.kindlepublishingservice.models.response.SubmitBookForPublishingResponse$Builder
+com/amazon/ata/kindlepublishingservice/dynamodb/models/PublishingStatusItem.java
+ com.amazon.ata.kindlepublishingservice.dynamodb.models.PublishingStatusItem
+com/amazon/ata/kindlepublishingservice/App.java
+ com.amazon.ata.kindlepublishingservice.App
+com/amazon/ata/kindlepublishingservice/activity/RemoveBookFromCatalogActivity.java
+ com.amazon.ata.kindlepublishingservice.activity.RemoveBookFromCatalogActivity
+com/amazon/ata/kindlepublishingservice/converters/CatalogItemConverter.java
+ com.amazon.ata.kindlepublishingservice.converters.CatalogItemConverter
+com/amazon/ata/kindlepublishingservice/converters/BookPublishRequestConverter.java
+ com.amazon.ata.kindlepublishingservice.converters.BookPublishRequestConverter
+com/amazon/ata/kindlepublishingservice/clients/RecommendationsServiceClient.java
+ com.amazon.ata.kindlepublishingservice.clients.RecommendationsServiceClient
+com/amazon/ata/kindlepublishingservice/controllers/Controller.java
+ com.amazon.ata.kindlepublishingservice.controllers.Controller
+com/amazon/ata/kindlepublishingservice/utils/KindlePublishingUtils.java
+ com.amazon.ata.kindlepublishingservice.utils.KindlePublishingUtils
+com/amazon/ata/kindlepublishingservice/activity/GetPublishingStatusActivity.java
+ com.amazon.ata.kindlepublishingservice.activity.GetPublishingStatusActivity
+com/amazon/ata/kindlepublishingservice/models/requests/GetPublishingStatusRequest.java
+ com.amazon.ata.kindlepublishingservice.models.requests.GetPublishingStatusRequest
+ com.amazon.ata.kindlepublishingservice.models.requests.GetPublishingStatusRequest$Builder
+com/amazon/ata/kindlepublishingservice/models/PublishingStatus.java
+ com.amazon.ata.kindlepublishingservice.models.PublishingStatus
+com/amazon/ata/kindlepublishingservice/publishing/BookPublisher.java
+ com.amazon.ata.kindlepublishingservice.publishing.BookPublisher
+com/amazon/ata/kindlepublishingservice/publishing/KindleFormattedBook.java
+ com.amazon.ata.kindlepublishingservice.publishing.KindleFormattedBook
+ com.amazon.ata.kindlepublishingservice.publishing.KindleFormattedBook$Builder
+com/amazon/ata/kindlepublishingservice/models/BookRecommendation.java
+ com.amazon.ata.kindlepublishingservice.models.BookRecommendation
+ com.amazon.ata.kindlepublishingservice.models.BookRecommendation$Builder
+com/amazon/ata/kindlepublishingservice/dagger/ATAKindlePublishingServiceManager.java
+ com.amazon.ata.kindlepublishingservice.dagger.ATAKindlePublishingServiceManager
+com/amazon/ata/kindlepublishingservice/models/response/GetBookResponse.java
+ com.amazon.ata.kindlepublishingservice.models.response.GetBookResponse
+ com.amazon.ata.kindlepublishingservice.models.response.GetBookResponse$Builder
+com/amazon/ata/kindlepublishingservice/models/response/RemoveBookFromCatalogResponse.java
+ com.amazon.ata.kindlepublishingservice.models.response.RemoveBookFromCatalogResponse
+ com.amazon.ata.kindlepublishingservice.models.response.RemoveBookFromCatalogResponse$Builder
+com/amazon/ata/kindlepublishingservice/converters/PublishingItemConverter.java
+ com.amazon.ata.kindlepublishingservice.converters.PublishingItemConverter
+com/amazon/ata/kindlepublishingservice/enums/PublishingRecordStatus.java
+ com.amazon.ata.kindlepublishingservice.enums.PublishingRecordStatus
+com/amazon/ata/kindlepublishingservice/publishing/BookPublishRequestManager.java
+ com.amazon.ata.kindlepublishingservice.publishing.BookPublishRequestManager
+com/amazon/ata/kindlepublishingservice/publishing/BookPublishRequest.java
+ com.amazon.ata.kindlepublishingservice.publishing.BookPublishRequest
+ com.amazon.ata.kindlepublishingservice.publishing.BookPublishRequest$Builder
+com/amazon/ata/kindlepublishingservice/models/requests/RemoveBookFromCatalogRequest.java
+ com.amazon.ata.kindlepublishingservice.models.requests.RemoveBookFromCatalogRequest
+ com.amazon.ata.kindlepublishingservice.models.requests.RemoveBookFromCatalogRequest$Builder
+com/amazon/ata/kindlepublishingservice/models/response/GetPublishingStatusResponse.java
+ com.amazon.ata.kindlepublishingservice.models.response.GetPublishingStatusResponse
+ com.amazon.ata.kindlepublishingservice.models.response.GetPublishingStatusResponse$Builder
+com/amazon/ata/kindlepublishingservice/models/Book.java
+ com.amazon.ata.kindlepublishingservice.models.Book
+ com.amazon.ata.kindlepublishingservice.models.Book$Builder
+com/amazon/ata/kindlepublishingservice/dagger/ClientsModule.java
+ com.amazon.ata.kindlepublishingservice.dagger.ClientsModule
+com/amazon/ata/kindlepublishingservice/dagger/PublishingModule.java
+ com.amazon.ata.kindlepublishingservice.dagger.PublishingModule
+com/amazon/ata/kindlepublishingservice/dagger/DataAccessModule.java
+ com.amazon.ata.kindlepublishingservice.dagger.DataAccessModule
+com/amazon/ata/kindlepublishingservice/dagger/ApplicationComponent.java
+ com.amazon.ata.kindlepublishingservice.dagger.ApplicationComponent
+com/amazon/ata/kindlepublishingservice/activity/SubmitBookForPublishingActivity.java
+ com.amazon.ata.kindlepublishingservice.activity.SubmitBookForPublishingActivity
+com/amazon/ata/kindlepublishingservice/dynamodb/models/CatalogItemVersion.java
+ com.amazon.ata.kindlepublishingservice.dynamodb.models.CatalogItemVersion
+com/amazon/ata/kindlepublishingservice/dao/CatalogDao.java
+ com.amazon.ata.kindlepublishingservice.dao.CatalogDao
+com/amazon/ata/kindlepublishingservice/exceptions/BookNotFoundException.java
+ com.amazon.ata.kindlepublishingservice.exceptions.BookNotFoundException
+com/amazon/ata/kindlepublishingservice/exceptions/PublishingStatusNotFoundException.java
+ com.amazon.ata.kindlepublishingservice.exceptions.PublishingStatusNotFoundException
+com/amazon/ata/kindlepublishingservice/publishing/KindleFormatConverter.java
+ com.amazon.ata.kindlepublishingservice.publishing.KindleFormatConverter
+com/amazon/ata/kindlepublishingservice/converters/RecommendationsCoralConverter.java
+ com.amazon.ata.kindlepublishingservice.converters.RecommendationsCoralConverter
+com/amazon/ata/kindlepublishingservice/dao/PublishingStatusDao.java
+ com.amazon.ata.kindlepublishingservice.dao.PublishingStatusDao
+com/amazon/ata/kindlepublishingservice/models/requests/GetBookRequest.java
+ com.amazon.ata.kindlepublishingservice.models.requests.GetBookRequest
+ com.amazon.ata.kindlepublishingservice.models.requests.GetBookRequest$Builder
+com/amazon/ata/kindlepublishingservice/models/PublishingStatusRecord.java
+ com.amazon.ata.kindlepublishingservice.models.PublishingStatusRecord
+ com.amazon.ata.kindlepublishingservice.models.PublishingStatusRecord$Builder
+com/amazon/ata/kindlepublishingservice/models/requests/SubmitBookForPublishingRequest.java
+ com.amazon.ata.kindlepublishingservice.models.requests.SubmitBookForPublishingRequest
+ com.amazon.ata.kindlepublishingservice.models.requests.SubmitBookForPublishingRequest$Builder
+com/amazon/ata/kindlepublishingservice/publishing/BookPublishTask.java
+ com.amazon.ata.kindlepublishingservice.publishing.BookPublishTask

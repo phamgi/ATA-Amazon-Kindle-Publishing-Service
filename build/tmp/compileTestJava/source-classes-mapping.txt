@@ -1,0 +1,58 @@
+com/amazon/ata/kindlepublishingservice/KindlePublishingClientException.java
+ com.amazon.ata.kindlepublishingservice.KindlePublishingClientException
+com/amazon/ata/kindlepublishingservice/publishing/BookPublisherTest.java
+ com.amazon.ata.kindlepublishingservice.publishing.BookPublisherTest
+com/amazon/ata/kindlepublishingservice/mastery/mt1/design/MasteryTaskOneDesignTests.java
+ com.amazon.ata.kindlepublishingservice.mastery.mt1.design.MasteryTaskOneDesignTests
+com/amazon/ata/kindlepublishingservice/publishing/NoOpTaskTest.java
+ com.amazon.ata.kindlepublishingservice.publishing.NoOpTaskTest
+com/amazon/ata/kindlepublishingservice/helpers/KindlePublishingServiceTctTestDao.java
+ com.amazon.ata.kindlepublishingservice.helpers.KindlePublishingServiceTctTestDao
+ com.amazon.ata.kindlepublishingservice.helpers.KindlePublishingServiceTctTestDao$CatalogItemVersion
+ com.amazon.ata.kindlepublishingservice.helpers.KindlePublishingServiceTctTestDao$KindlePublishingServiceTctTestData
+ com.amazon.ata.kindlepublishingservice.helpers.KindlePublishingServiceTctTestDao$PublishingRecordStatus
+ com.amazon.ata.kindlepublishingservice.helpers.KindlePublishingServiceTctTestDao$PublishingStatusItem
+com/amazon/ata/kindlepublishingservice/helpers/IntegrationTestBase.java
+ com.amazon.ata.kindlepublishingservice.helpers.IntegrationTestBase
+com/amazon/ata/kindlepublishingservice/publishing/KindleFormatConverterTest.java
+ com.amazon.ata.kindlepublishingservice.publishing.KindleFormatConverterTest
+com/amazon/ata/kindlepublishingservice/utils/KindlePublishingUtilsTest.java
+ com.amazon.ata.kindlepublishingservice.utils.KindlePublishingUtilsTest
+com/amazon/ata/kindlepublishingservice/converters/BookPublishRequestConverterTest.java
+ com.amazon.ata.kindlepublishingservice.converters.BookPublishRequestConverterTest
+com/amazon/ata/kindlepublishingservice/helpers/ExecuteTctSuiteRequest.java
+ com.amazon.ata.kindlepublishingservice.helpers.ExecuteTctSuiteRequest
+com/amazon/ata/kindlepublishingservice/helpers/TctResult.java
+ com.amazon.ata.kindlepublishingservice.helpers.TctResult
+com/amazon/ata/kindlepublishingservice/helpers/TctSuiteReport.java
+ com.amazon.ata.kindlepublishingservice.helpers.TctSuiteReport
+com/amazon/ata/kindlepublishingservice/mastery/mt1/design/MasteryTaskOneSequenceTests.java
+ com.amazon.ata.kindlepublishingservice.mastery.mt1.design.MasteryTaskOneSequenceTests
+com/amazon/ata/kindlepublishingservice/helpers/SubmitBookForPublishingHelper.java
+ com.amazon.ata.kindlepublishingservice.helpers.SubmitBookForPublishingHelper
+com/amazon/ata/kindlepublishingservice/clients/RecommendationsServiceClientTest.java
+ com.amazon.ata.kindlepublishingservice.clients.RecommendationsServiceClientTest
+com/amazon/ata/kindlepublishingservice/helpers/ExecuteTctSuiteResponse.java
+ com.amazon.ata.kindlepublishingservice.helpers.ExecuteTctSuiteResponse
+com/amazon/ata/kindlepublishingservice/helpers/TctIntrospectionTest.java
+ com.amazon.ata.kindlepublishingservice.helpers.TctIntrospectionTest
+com/amazon/ata/kindlepublishingservice/helpers/TctId.java
+ com.amazon.ata.kindlepublishingservice.helpers.TctId
+com/amazon/ata/kindlepublishingservice/converters/CatalogCoralConverterTest.java
+ com.amazon.ata.kindlepublishingservice.converters.CatalogCoralConverterTest
+com/amazon/ata/kindlepublishingservice/dao/PublishingStatusDaoTest.java
+ com.amazon.ata.kindlepublishingservice.dao.PublishingStatusDaoTest
+com/amazon/ata/kindlepublishingservice/activity/SubmitBookForPublishingActivityTest.java
+ com.amazon.ata.kindlepublishingservice.activity.SubmitBookForPublishingActivityTest
+com/amazon/ata/kindlepublishingservice/mastery/mt3/MasteryTaskThreeTests.java
+ com.amazon.ata.kindlepublishingservice.mastery.mt3.MasteryTaskThreeTests
+com/amazon/ata/kindlepublishingservice/dao/CatalogDaoTest.java
+ com.amazon.ata.kindlepublishingservice.dao.CatalogDaoTest
+com/amazon/ata/kindlepublishingservice/mastery/mt4/MasteryTaskFourSubmitBookForPublishingTests.java
+ com.amazon.ata.kindlepublishingservice.mastery.mt4.MasteryTaskFourSubmitBookForPublishingTests
+com/amazon/ata/kindlepublishingservice/mastery/mt1/MasteryTaskOneTests.java
+ com.amazon.ata.kindlepublishingservice.mastery.mt1.MasteryTaskOneTests
+com/amazon/ata/kindlepublishingservice/mastery/mt2/MasteryTaskTwoSubmitBookForPublishingTests.java
+ com.amazon.ata.kindlepublishingservice.mastery.mt2.MasteryTaskTwoSubmitBookForPublishingTests
+com/amazon/ata/kindlepublishingservice/activity/GetBookActivityTest.java
+ com.amazon.ata.kindlepublishingservice.activity.GetBookActivityTest
